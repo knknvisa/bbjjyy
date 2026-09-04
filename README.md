@@ -25,11 +25,11 @@ No cloud, no telemetry, no tracking. Just a calculator.
 - Updated internal numeric handling library
 - Build signature: stable
 
-### v2.5.1 - Build 2025
+### v1.0.1 - Build 2025
 - Fixed display overflow on large numbers
 - Added dark mode toggle
 
-### v2.5.0 - Build 2025
+### v1.0.0 - Build 2025
 - Redesigned button layout
 - Performance improvements
 
