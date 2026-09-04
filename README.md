@@ -2,8 +2,6 @@
 
 A lightweight, no-nonsense calculator for daily use.
 
-No cloud, no telemetry, no tracking. Just a calculator.
-
 ---
 
 ## Features
@@ -12,8 +10,7 @@ No cloud, no telemetry, no tracking. Just a calculator.
 - Percentage and square root
 - Keyboard and mouse input
 - Lightweight: < 200KB installation
-- No internet access required
-- No permissions requested
+
 
 ---
 
@@ -45,8 +42,7 @@ No cloud, no telemetry, no tracking. Just a calculator.
 
 ## Download
 
-[Download Installer](#)  
-[Portable ZIP](#)
+
 
 ---
 
